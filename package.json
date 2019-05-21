@@ -1,0 +1,16 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Shubham Sharma",
+  "license": "ISC",
+  "homepage": "https://shubhampark07.github.io/profile",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
